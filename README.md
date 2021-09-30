@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# [DEMO](https://takenotesonapp.herokuapp.com/)
+# [DEMO](https://boiling-fjord-75750.herokuapp.com/)
 ## Available Scripts
 
 In the project directory, you can run:
